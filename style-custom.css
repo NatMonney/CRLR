@@ -1,0 +1,93 @@
+/* STYLING CANCELING */
+
+
+#wrap-bottom-menu {
+	display: none;
+}
+
+#content {
+	padding: 0;
+	margin: 0;
+}
+
+.entry-content, .entry-summary {
+	padding: 0;
+}
+
+.entry-title {
+	display: none;
+}
+
+
+/* STYLING EDITING */
+
+.content-blank {
+	height: 100%;
+	position: fixed;
+    
+}
+
+#content h1 {
+
+	font-size: 65px;
+	font-weight: 600;
+}
+
+#content p {
+
+	font-size: 14px;
+	font-weight: 200;
+	line-height: 160%;
+
+}
+
+
+/* BUTTONS */
+
+.button {
+
+    float: right;
+    height: 100%;
+    width: 57px;
+}
+
+.button-container {
+
+    background: #355769;
+    height: 57px;
+    width: 100%;
+}
+
+.button-menu {
+
+    background: #61c2f3;
+}
+
+.button-search {
+
+    background: #4db5ea;
+}
+
+
+
+/* STYLING TESTING */
+
+.left-33 {
+
+	float: left;
+	height: 100%;
+	width: 33%;
+	
+
+}
+
+.dark-grey {
+	background: #282828;
+}
+
+.right {
+	background: repeat url(http://wp.unil.ch/crlrimages/files/2017/09/PatternBG.jpg);
+	float: left;
+	height: 100%;
+    max-width: 67%;
+}
